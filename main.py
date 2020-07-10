@@ -2,8 +2,9 @@ from tkinter import filedialog
 from tkinter import Tk
 from pytube import YouTube
 
-root = Tk()
-root.withdraw()
+# root = Tk()
+# root.iconbitmap("iconBig.ico")
+# root.withdraw()
 
 
 userVid = None
